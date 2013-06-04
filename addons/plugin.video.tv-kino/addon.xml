@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon
+  id="plugin.video.tv-kino"
+  name="Tv-Kino"
+  version="0.0.3"
+  provider-name="Thomas Ballmann">
+  <requires>
+    <import addon="xbmc.python" version='2.1.0'/>
+  </requires>
+  <extension
+    point="xbmc.python.pluginsource"
+    library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary></summary>
+    <summary lang="de"></summary>
+    <description></description>
+    <description lang="de"></description>
+    <platform>all</platform>
+    <website>https://github.com/datom/xbmc-addons</website>
+    <source>https://github.com/datom/xbmc-addons.git</source>
+  </extension>
+</addon>
