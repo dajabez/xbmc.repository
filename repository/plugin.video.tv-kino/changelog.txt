@@ -1,0 +1,3 @@
+﻿version 0.0.4 - 06/04/2013
+  * fix and fork from https://github.com/datom/xbmc-addons/tree/master/plugin.video.tv-kino
+  * fixed rtmp url

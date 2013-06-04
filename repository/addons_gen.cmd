@@ -5,6 +5,10 @@ copy ..\addons\plugin.video.teamstream\addon.xml plugin.video.teamstream
 copy ..\addons\plugin.video.teamstream\icon.png plugin.video.teamstream
 copy ..\addons\plugin.video.teamstream\changelog.txt plugin.video.teamstream
 
+copy ..\addons\plugin.video.tv-kino\addon.xml plugin.video.tv-kino
+copy ..\addons\plugin.video.tv-kino\icon.png plugin.video.tv-kino
+copy ..\addons\plugin.video.tv-kino\changelog.txt plugin.video.tv-kino
+
 copy ..\addons\script.module.beautifulsoup\addon.xml script.module.beautifulsoup
 
 "C:\Program Files (x86)\Python-2.6.6\python.exe" addons_gen.py
